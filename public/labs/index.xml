@@ -20,5 +20,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Second Task</title>
+      <link>http://shajadi.com/bi/labs/task2/</link>
+      <pubDate>Wed, 07 Feb 2018 15:07:59 +0200</pubDate>
+      
+      <guid>http://shajadi.com/bi/labs/task2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third Task</title>
+      <link>http://shajadi.com/bi/labs/task3/</link>
+      <pubDate>Wed, 07 Feb 2018 15:07:59 +0200</pubDate>
+      
+      <guid>http://shajadi.com/bi/labs/task3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forth Task</title>
+      <link>http://shajadi.com/bi/labs/task4/</link>
+      <pubDate>Wed, 07 Feb 2018 15:07:59 +0200</pubDate>
+      
+      <guid>http://shajadi.com/bi/labs/task4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fifth Task</title>
+      <link>http://shajadi.com/bi/labs/task5/</link>
+      <pubDate>Wed, 07 Feb 2018 15:07:59 +0200</pubDate>
+      
+      <guid>http://shajadi.com/bi/labs/task5/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -7,4 +7,4 @@ chapter: true
 
 # Tasks
 
-Business Implementation Tasks
+Business Implementation
